@@ -5,12 +5,12 @@ public class App {
             System.out.println("Christine Joy");
         
         }
-        int rideCount= 5;
+        int surnameCount= 5;
 
         do {
             System.out.println("Lu");
-            rideCount--;
-        } while (rideCount != 0);
+            surnameCount--;
+        } while (surnameCount != 0);
         
          int nicknameCount = 5;
           
